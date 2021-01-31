@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on so many Projects
 
-https://github-readme-stats.vercel.app/api?username=danielkhakbaz
+![Github stats](https://github-readme-stats.vercel.app/api?username=danielkhakbaz)
 
 ### Let's Connect 🔗
 
