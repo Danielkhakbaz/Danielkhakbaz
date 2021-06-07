@@ -1,9 +1,9 @@
 ### Hi there, I'm Daniel 👋
 
-Here are some ideas to get you started:
+This is a summary about me:
 
-- 🔭 I’m a Front-end Developer
-- 🌱 I’m currently learning Python
+- 🔭 I’m a Future Data Scientist
+- 🌱 I’m currently working on my Machine Learning skills
 - 👯 I’m looking to collaborate on so many Projects
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielkhakbaz)
