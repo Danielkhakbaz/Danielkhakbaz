@@ -4,7 +4,7 @@ There is a summary about me:
 
 - 🔭 I’m a Front-end Developer
 - 🌱 Javascript Enthusiast
-- 🎲 Problem Solver with a broad range of knowledge in Data Structure & Algorithms
+- 🎲 Data Structure & Algorithms Lover
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielkhakbaz)
 
