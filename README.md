@@ -2,8 +2,9 @@
 
 There is a summary about me:
 
-- 🔭 I’m a Future Data Scientist
-- 🌱 I’m currently working on my ML skills
+- 🔭 I’m a Front-end Developer
+- 🌱 Javascript Enthusiast
+- 🎲 Problem Solver with a broad range of knowledge in Data Structure & Algorithms
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielkhakbaz)
 
