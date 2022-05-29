@@ -3,14 +3,14 @@
 There is a summary about me:
 
 - 🔭 I’m a Front-end Developer
-- 🌱 Javascript Enthusiast
+- 🌱 Typescript Enthusiast
 - 🎲 Data Structure & Algorithms Lover
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielkhakbaz)
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3276AE?style=for-the-badge&labelColor=black&logo=python&logoColor=3276AE)](#)
 
 ### Let's Connect 🔗
