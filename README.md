@@ -3,7 +3,7 @@
 There is a summary about me:
 
 - 🔭 I’m a Front-end Developer
-- 🌱 Typescript Enthusiast
+- 🌱 Javascript Enthusiast
 - 🎲 Data Structure & Algorithms Lover
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielkhakbaz)
