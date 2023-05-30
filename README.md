@@ -6,6 +6,8 @@
 
 - 👨🏻‍💻 All of my socials are available at [https://danielkhakbaz.github.io/links/](https://danielkhakbaz.github.io/links/)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=danielkhakbaz)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danielkhakbaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielkhakbaz" height="30" width="40" /></a>
