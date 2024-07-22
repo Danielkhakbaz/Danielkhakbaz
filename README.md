@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Danial</h1>
+t<h1 align="center">Hi 👋, I'm Danial</h1>
 
 - 🔭 I’m a Front-end Developer
-- 🌱 Javascript Enthusiast
+- 🌱 JavaScript/TypeScript Enthusiast
 - 🎲 Data Structure & Algorithms Lover
 
-- 👨🏻‍💻 All of my socials are available at [https://danielkhakbaz.github.io/links/](https://danielkhakbaz.github.io/links/)
+- 👨🏻‍💻 All of my socials are available at [Danial's Portfolio](https://danieloo.vercel.app/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielkhakbaz)
 
