@@ -5,9 +5,6 @@
 🎲 Data Structure & Algorithms Lover<br /><br />
 ✨ Available for full-time and part-time opportunities
 
----
-[![](https://visitcount.itsvg.in/api?id=danielkhakbaz&icon=5&color=5)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danielkhakbaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielkhakbaz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/danielkhakbaz) 
 
